@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/open_with_youtube"
+        android:id="@+id/menu_open_with"/>
+    <item android:title="@string/share_in"
+        android:id="@+id/menu_share_in"/>
+
+</menu>
